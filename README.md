@@ -1,2 +1,6 @@
 # approximate_knn
-An approximate KNN algorithm optimized for minimum memory consumption, implemented in Cython.
+TODO
+
+## Authors
+- [Federico Rios](https://github.com/federico-rios)
+- [Francesco Puddu](https://github.com/francescopuddu)
